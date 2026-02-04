@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 
-**ConnorFranciscus/ConnorFranciscus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I'm currently learning about data analysis and the tools required to organize data in an analytical format to be used for bigger business decisions. I am interested in working with data, technology, computers, and coding different systems and functions. Currently, I am a Junior at the University of Cincinnati studying Business Analytics and Information Systems. I am looking for any opportunites to broaden my skills and strengthen my experience with data. 
+
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,3 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
